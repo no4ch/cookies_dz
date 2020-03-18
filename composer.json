@@ -1,0 +1,15 @@
+{
+    "name": "n/n",
+    "authors": [
+        {
+            "name": "no4ch",
+            "email": "vk202164356@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Academy\\": "src/"
+        }
+    },
+    "require": {}
+}
